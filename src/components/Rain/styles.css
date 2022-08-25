@@ -1,0 +1,48 @@
+.body-rain {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+}
+
+.rain-image {
+    width: 50%;
+    height: 100%;
+    background-image: url('../../img/rain-image.jpg');
+    background-size: cover;
+}
+
+.image-button {
+    display: flex;
+    flex-direction: column;
+    font-size: 25px;
+    border-color: #fff;
+    color: #fff;
+    background-color: transparent;
+    margin-top: 15rem;
+    margin-left: 15rem;
+
+}
+
+.body-text {
+    width: 50%;
+    margin-top: 10rem;
+    margin: 0;
+}
+
+.body-text__title {
+    font-size: 30px;
+    margin-top: 10rem;
+    text-align: center;
+}
+
+.body-text__description {
+    font-size: 15px;
+    margin-top: 3rem;
+    margin-left: 8rem;
+}
+
+.body-text__button {
+    margin-top: 5rem;
+    margin-left: 15rem;
+
+}

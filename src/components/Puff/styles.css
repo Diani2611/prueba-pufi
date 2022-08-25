@@ -1,0 +1,12 @@
+.body-puff {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+}
+
+.puff-image {
+    width: 50%;
+    height: 100%;
+    background-image: url('../../img/image-puff.jpg');
+    background-size: cover;
+}
