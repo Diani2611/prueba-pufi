@@ -3,7 +3,7 @@ import './styles.css'
 
 export default function Header() {
     return (
-        <section>
+        <section className='wrapper-header'>
             <div className='header-content'>
                 <div className='header-logo'>
                     <h1 className='logo-text'> Pufi</h1>
