@@ -1,0 +1,12 @@
+.body-nap {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+}
+
+.nap-image {
+    width: 50%;
+    height: 100%;
+    background-image: url('../../img/nap-image.jpg');
+    background-size: cover;
+}

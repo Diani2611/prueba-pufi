@@ -1,0 +1,12 @@
+.body-cart {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+}
+
+.cart-image {
+    width: 50%;
+    height: 100%;
+    background-image: url('../../img/carterimage.jpg');
+    background-size: cover;
+}

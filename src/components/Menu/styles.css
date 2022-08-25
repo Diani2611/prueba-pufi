@@ -1,0 +1,16 @@
+.menu-ppal {
+    height: 100%;
+    display: flex;
+    color: #fff;
+}
+
+.menu-ppal__items {
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    margin-right: 20px;
+    font-weight: bold;
+    font-size: 14px;
+    cursor: pointer;
+
+}
